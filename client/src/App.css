@@ -1,0 +1,28 @@
+.App {
+  /* text-align: center; */
+  margin: 0px auto;
+  max-width: max-content;
+}
+
+.field{
+  /* border:2px solid black; */
+  max-width: 80%;
+  margin: auto;
+}
+.addressItem{
+  color: black;
+  text-decoration: none;
+}
+.nav{
+  justify-content: center;
+  margin: 10px auto;
+  max-width: max-content;
+}
+a.active{
+  font-weight: 700;
+}
+.fromAdd{
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  padding: 10px;
+}
