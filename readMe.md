@@ -1,7 +1,14 @@
 ### BLOCKCHAIN EXPLORER APP
+
+#### PROJECT MODE IN `GROUP`
+
+- Participant 1:
 #### Name: Shehroz Waseem
 #### ID: 101501973
 
+- Participant 2:
+#### Name: Pavani Miglani
+#### ID: 101517557
 
 ## Overview
 This project is a blockchain explorer application developed by Shehroz Waseem (ID: 101501973). It consists of two main directories:
